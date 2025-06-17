@@ -49,13 +49,11 @@
 ---
 ## 📂 My Projects
 
-| Project Name       | Description                         | Tech Stack           | Link                                |
-|--------------------|-----------------------------------|----------------------|------------------------------------|
-| Portfolio Website  | A personal portfolio to showcase my skills and projects. | HTML, CSS, JavaScript | [View Repo](https://github.com/hassanowner/portfolio) |
-| Responsive Table   | HTML & CSS project for building responsive tables. | HTML, CSS            | [View Repo](https://github.com/hassanowner/Table-with-Html-Css) |
-| UI Design Concepts | Collection of UI/UX design mockups and concepts. | Figma, Adobe XD      | [View Designs](https://www.figma.com/file/xxxx)        |
+| Project Name                   | Description                      | GitHub Link                                                                 |
+|-------------------------------|----------------------------------|------------------------------------------------------------------------------|
+| 🎮 Game Hover List            | A simple project that shows an interactive game list using hover effects. | [View Repository](https://github.com/hassanowner/game-hover-list.git)       |
+| 📊 Modern HTML Table Design   | A clean and modern HTML/CSS table layout.                 | [View Repository](https://github.com/hassanowner/modern-HTML-Table-Design.git) |
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
