@@ -49,6 +49,25 @@
 - **Desmos** (Graphing & Visualizations) ![Desmos](https://img.shields.io/badge/Desmos-FF6F61?style=flat&logo=desmos&logoColor=white)
 
 ---
+## 📂 My Projects
+
+| Project Name       | Description                         | Tech Stack           | Link                                |
+|--------------------|-----------------------------------|----------------------|------------------------------------|
+| Portfolio Website  | A personal portfolio to showcase my skills and projects. | HTML, CSS, JavaScript | [View Repo](https://github.com/hassanowner/portfolio) |
+| Responsive Table   | HTML & CSS project for building responsive tables. | HTML, CSS            | [View Repo](https://github.com/hassanowner/Table-with-Html-Css) |
+| UI Design Concepts | Collection of UI/UX design mockups and concepts. | Figma, Adobe XD      | [View Designs](https://www.figma.com/file/xxxx)        |
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanowner&show_icons=true&theme=github_dark&hide_border=true" alt="Hassan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanowner&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+---
 ## 📫 Connect With Me
 
 <p align="center">
