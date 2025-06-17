@@ -37,9 +37,7 @@
 
 ### 🎨 UI/UX & Design Tools
 - **UI Design** ![UI Design](https://img.shields.io/badge/UI_Design-FF6F61?style=flat&logo=adobe-xd&logoColor=white)
-- **Figma** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 - **Adobe XD** ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
-- **CSS Animations** ![CSS Animations](https://img.shields.io/badge/CSS_Animations-1572B6?style=flat&logo=css3&logoColor=white)
   
 ### 🔍 Additional Skills
 - **Binary/Hex/Decimal Conversions** ![Binary](https://img.shields.io/badge/Binary_Hex_Decimal-4285F4?style=flat&logo=mathworks&logoColor=white)
