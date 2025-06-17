@@ -19,6 +19,36 @@
 - 🚀 Continuously improving skills in **web development** to build complete, responsive websites.
 
 ---
+## 🛠️ Tech Stack
+
+### 💻 Front-end
+- **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- **CSS3** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Regex** ![Regex](https://img.shields.io/badge/Regular_Expressions-009926?style=flat&logo=regex&logoColor=white)
+
+### 🐍 Python & C++
+- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **C++** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### 🔧 Version Control & Collaboration
+- **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### 🎨 UI/UX & Design Tools
+- **UI Design** ![UI Design](https://img.shields.io/badge/UI_Design-FF6F61?style=flat&logo=adobe-xd&logoColor=white)
+- **Figma** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- **Adobe XD** ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
+- **CSS Animations** ![CSS Animations](https://img.shields.io/badge/CSS_Animations-1572B6?style=flat&logo=css3&logoColor=white)
+  
+### 🔍 Additional Skills
+- **Binary/Hex/Decimal Conversions** ![Binary](https://img.shields.io/badge/Binary_Hex_Decimal-4285F4?style=flat&logo=mathworks&logoColor=white)
+- **Logical Operations** (`AND`, `OR`, `NOT`, `XOR`) ![Logic Gates](https://img.shields.io/badge/Logic_Gates-FF6F61?style=flat&logo=circuitverse&logoColor=white)
+
+- **Mathematical Functions** (Algebra, Calculus) ![Math](https://img.shields.io/badge/Mathematics-009688?style=flat&logo=mathworks&logoColor=white)
+- **Desmos** (Graphing & Visualizations) ![Desmos](https://img.shields.io/badge/Desmos-FF6F61?style=flat&logo=desmos&logoColor=white)
+
+---
 ## 📫 Connect With Me
 
 <p align="center">
