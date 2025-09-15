@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Ui-pho.png" alt="Banner" />
+  <img src="UI-pho.png" alt="Banner" />
 </p>
 <h1 align="center">Hey there, I'm Hassan 👋</h1>
 <p align="center">
